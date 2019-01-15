@@ -23,7 +23,7 @@ cheese_types = ["cheddar", "gouda", "camembert"]
     if array.include?(cheese)
       return cheese
     end
-  
+
 end
 return nil
 end
